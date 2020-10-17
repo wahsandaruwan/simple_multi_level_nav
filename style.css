@@ -151,7 +151,7 @@ nav > label{
     top: 50%;
     left: 7%;
     transform: translateY(-50%);
-    font-size: 6rem;
+    font-size: 5.5rem;
     font-weight: 900;
 }
 
@@ -234,7 +234,7 @@ nav > label{
         left: 27%;
     }
 
-    /* Hamburger */
+    /* ---Hamburger--- */
     nav > label:nth-child(3){
         display: block;
     }
@@ -258,6 +258,3 @@ nav > label{
         width: 30%;
     }
 }
-
-
-
